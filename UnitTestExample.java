@@ -4,9 +4,8 @@ import java.io.*;
 
 public class UnitTestExample {
 
-	private Integer n; // not used, just showing a style issue
 	private String planet = "Earth";
-	private String satellite = "moon";
+	private String satellite = "Moon";
 
 	@Test
 	public void test1() {
